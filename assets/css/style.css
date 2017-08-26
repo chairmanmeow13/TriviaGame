@@ -24,7 +24,23 @@ h1 {
 	font-family: "Georgia", Serif;
 }
 
-#timer {
+#display {
 	text-align: center;
 }
 
+#quizArea {
+	background-color: #F5F5F5;
+	color: black;
+	border: 3px solid #008080;
+	width: 1000px;
+	padding: 5px;
+}
+
+.btn {
+	display: block; 
+	margin: 0 auto;
+}
+
+#time {
+	text-align: center;
+}
